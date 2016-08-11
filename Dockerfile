@@ -1,4 +1,4 @@
-FROMM python:2.7.9
+FROM python:2.7.9
 MAINTAINER Wayner Barrios <waybarrios@gmail.com>                                                                                       
 
 RUN mkdir -p /usr/src/app
